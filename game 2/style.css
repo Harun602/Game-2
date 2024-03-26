@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{text-align: center;}
+#board{
+    text-align: center;
+    /* background-color: aquamarine; */
+    background-image: url(./images/background.jpg);
+}
